@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\elean\OneDrive\Desktop\測試中\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2006863356.index
