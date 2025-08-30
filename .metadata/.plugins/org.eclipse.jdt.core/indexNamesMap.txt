@@ -1,3 +1,1 @@
 INDEX VERSION 1.134
-file:/C:/Users/elean/OneDrive/Desktop/測試中/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
-meta_index

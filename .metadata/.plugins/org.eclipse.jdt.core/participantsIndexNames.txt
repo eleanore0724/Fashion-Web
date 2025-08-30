@@ -1,3 +1,5 @@
 INDEX VERSION 1.134
 C:\Users\elean\OneDrive\Desktop\測試中\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2055057290.index
 \fashion-web\src\main\resources
+C:\Users\elean\OneDrive\Desktop\Fashion-Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2055057290.index
+\fashion-web\src\main\java
